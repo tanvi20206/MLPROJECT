@@ -41,3 +41,10 @@ for filepath in list_of_files:
             logging.info(f"Creating empty file:{filepath}")
     else:
         logging.info(f"{filename} is already exists")
+
+
+
+
+
+        ### cookiecutter  ist step pip install cookiecutter 2nd = go to documentation and paste it on terminal
+        
